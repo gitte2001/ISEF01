@@ -6,4 +6,4 @@ git branch -M main
 git remote add origin git@github.com:gitte2001/ISEF01.git
 git push -u origin main
 
-git checkout -b TASK-21-<branch-1>
+TASK-21 new new
